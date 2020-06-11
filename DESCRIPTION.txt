@@ -1,0 +1,3 @@
+Smachines is an Hypercasual mobile game for Android made in 1 month; during the Digital Bros Game Academy course.
+It's developed in c# and made with Unity.
+The team was composed by 3 Programmers, 4 Designers, 3 Concept Artist and 3 3D-Artist

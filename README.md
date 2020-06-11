@@ -1,2 +1,0 @@
-# Smachines
-Hypercasual mobile game
